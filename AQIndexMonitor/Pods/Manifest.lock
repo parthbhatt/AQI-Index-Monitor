@@ -1,0 +1,22 @@
+PODS:
+  - ABGaugeViewKit (1.0.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+
+DEPENDENCIES:
+  - ABGaugeViewKit
+  - Charts
+
+SPEC REPOS:
+  trunk:
+    - ABGaugeViewKit
+    - Charts
+
+SPEC CHECKSUMS:
+  ABGaugeViewKit: b69c855c2878e5ba49605b0662d409c1577ed198
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+
+PODFILE CHECKSUM: 6329b6a79da394f8d6e4eba388a50eda643e8eae
+
+COCOAPODS: 1.10.2
